@@ -30,6 +30,12 @@ body {
 	display: block;
 }
 
+.main-button:hover {
+	cursor: pointer;
+	background-color: #5e9674;
+}
+	
+
 @font-face {
 	font-family: "Mountains of Christmas", serif;
   	font-weight: 400;
@@ -45,4 +51,5 @@ body {
 	font-family: "Mountains of Christmas", serif;
 	position: fixed;
 	bottom: 0;
+
 }
