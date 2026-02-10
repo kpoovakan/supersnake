@@ -28,6 +28,7 @@ body {
 	width: 314px;
 	margin: 0 auto;
 	display: block;
+	border-color: #1f2421;
 }
 
 .main-button:hover {
@@ -53,3 +54,4 @@ body {
 	bottom: 0;
 
 }
+
